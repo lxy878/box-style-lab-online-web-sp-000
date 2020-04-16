@@ -30,7 +30,7 @@ h4 {
 }
 
 .indifferent {
-  border-width: 1px;
+  border: 1px solid #dddd22;
   background-color: #dddd22;
   box-shadow:  -1px 1px yellow, -2px 2px yellow, -3px 3px yellow, -4px 4px yellow, -5px 5px yellow;
 }
